@@ -1,0 +1,8 @@
+**/node_modules
+**/build
+packages/dashboard/.env
+packages/protocol/build
+
+.env*
+.idea
+.vscode
